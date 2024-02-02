@@ -38,7 +38,7 @@ const questions = [
 ];
 
 const questionElement = document.getElementById("question");
-const answerButtons = document.getElementById("answer-buttons");
+const answerButtons = document.getElementById("answer-button");
 const nextButton = document.getElementById("next-btn");
 
 let currentQuestionIndex = 0;
